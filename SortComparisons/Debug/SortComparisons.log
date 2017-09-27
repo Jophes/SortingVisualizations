@@ -1,0 +1,4 @@
+﻿  main.cpp
+g:\test projects\sortcomparisons\sortcomparisons\main.cpp(213): warning C4018: '<': signed/unsigned mismatch
+  SortComparisons.vcxproj -> G:\Test Projects\SortComparisons\Debug\SortComparisons.exe
+  SortComparisons.vcxproj -> G:\Test Projects\SortComparisons\Debug\SortComparisons.pdb (Partial PDB)
